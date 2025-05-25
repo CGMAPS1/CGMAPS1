@@ -58,7 +58,7 @@
 
 ## 🔗 Connect with Me
 
-- 🧑‍💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aditya-pratap-singh-admin/))
+- 🧑‍💼 [LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aditya-pratap-singh-admin/))
 - 💻 [Codeforces](https://codeforces.com/profile/saraswati_panchami)
 - ✍️ [My Blog](https://yourblog.com) (coming soon!)
 - 📬 Email: `23je0051@iitism.ac.in`
