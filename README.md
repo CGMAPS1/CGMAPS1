@@ -43,7 +43,7 @@
 - Improving LSTM and GRU models on custom datasets using PyTorch  
 - Exploring Transformer-based architectures and attention mechanisms  
 - Blogging about **Hyperparameter Tuning** and different Deep Learning frameworks and concepts 
-- Preparing for contests on Codeforces (`@saraswati_panchami`)
+- Preparing for contests on Codeforces (`@Apratap11`)
 
 ---
 
