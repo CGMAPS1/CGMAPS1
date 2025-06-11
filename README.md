@@ -47,13 +47,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CGMAPS1&show_icons=true&theme=tokyonight" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CGMAPS1&layout=compact&theme=tokyonight" height="170px"/>
-</p>
-
 ---
 
 ## 🔗 Connect with Me
