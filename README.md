@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi, I'm [Aditya Pratap Singh] 👋</h1>
+<h1 align="center">Hi, I'm Aditya Pratap Singh 👋</h1>
 <p align="center">
   🎓 Pre-final year student  @ IIT (ISM) Dhanbad | Mathematics and Computing(MnC) | 🤖 Deep Learning & NLP Enthusiast | 🧠 Math + CS Lover | 🎙️ Public Speaker
 </p>
